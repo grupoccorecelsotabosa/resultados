@@ -1,2 +1,0 @@
-# resultados
-Resultados de Exames
